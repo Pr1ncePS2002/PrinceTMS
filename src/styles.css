@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --body1-regular: Poppins;
+  
+    /* font sizes */
+    --body1-regular-size: 1rem;
+    --font-size-9xl: 1.75rem;
+    --heading-8-bold-size: 1.125rem;
+    --font-size-23xl: 2.625rem;
+    --body2-regular-size: 0.875rem;
+  
+    /* Colors */
+    --grey: #f4f6fc;
+    --color-gray-100: #282938;
+    --color-gray-200: rgba(255, 255, 255, 0.1);
+    --white: #fff;
+    --color-khaki: #fcd980;
+    --color-darkslateblue-100: #1c1e53;
+    --color-darkslateblue-200: rgba(28, 30, 83, 0.6);
+  
+    /* Border radiuses */
+    --br-5xs: 8px;
+    --br-8xs: 5px;
+  }
+  
