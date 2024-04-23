@@ -1,2 +1,0 @@
-# PrinceTMS
-Training management system
