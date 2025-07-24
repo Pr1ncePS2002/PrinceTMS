@@ -1,4 +1,3 @@
-```markdown
 # 📌 Training Management Angular Project
 
 ## 🧠 Overview
